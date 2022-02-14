@@ -25,3 +25,9 @@ http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7882
 http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7883
 #EXTINF:-1,Bein Sports 12
 http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7884
+#EXTINF:-1 group-title="🏷️ | Kênh SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",beIN SPORTS 1 PREMIUM
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="🏷️ | Kênh SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",beIN SPORTS 2 PREMIUM
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="🏷️ | Kênh SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",beIN SPORTS 3 PREMIUM
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
