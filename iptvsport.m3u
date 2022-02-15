@@ -31,89 +31,332 @@ http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 group-title="🏷️ | Kênh SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",beIN SPORTS 3 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="-------------## Server 2 HD ##-------------" tvg-logo="" group-title="Sports HD server 2",-------------## Server 2 HD ##-------------
-http://maxq.live:800/live/555/111/447.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 1" tvg-logo="" group-title="Sports HD server 2",BeIN PREMIUM 1
-http://maxq.live:800/live/555/111/605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 2" tvg-logo="" group-title="Sports HD server 2",BeIN PREMIUM 2
-http://maxq.live:800/live/555/111/606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 3" tvg-logo="http://maxq.live:25461/images/3908b5520c10387318acb3bf705a4f2a.png" group-title="Sports HD server 2",BeIN PREMIUM 3
-http://maxq.live:800/live/555/111/607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 1" tvg-logo="http://maxq.live:25461/images/3908b5520c10387318acb3bf705a4f2a.png" group-title="Sports HD server 2",BeIN Sports 1
-http://maxq.live:800/live/555/111/608.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="-------------## Server 1 HD##-------------" tvg-logo="" group-title="Sports HD server 1",-------------## Server 1 HD##-------------
-http://maxq.live:800/live/555/111/473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 PREMIUM HD" tvg-logo="" group-title="Sports HD server 1",BEIN 1 PREMIUM HD
-http://maxq.live:800/live/555/111/492.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 2 PREMIUM HD" tvg-logo="" group-title="Sports HD server 1",BEIN 2 PREMIUM HD
-http://maxq.live:800/live/555/111/474.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 PREMIUM HD" tvg-logo="" group-title="Sports HD server 1",BEIN 3 PREMIUM HD
-http://maxq.live:800/live/555/111/475.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="Sports HD server 1",BEIN SPORTS 1 HD
-http://maxq.live:800/live/555/111/476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="Sports HD server 1",BEIN SPORTS 2 HD
-http://maxq.live:800/live/555/111/477.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="Sports HD server 1",BEIN SPORTS 3 HD
-http://maxq.live:800/live/555/111/478.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="" group-title="Sports HD server 1",BEIN SPORTS 4 HD
-http://maxq.live:800/live/555/111/479.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="" group-title="Sports HD server 1",BEIN SPORTS 5 HD
-http://maxq.live:800/live/555/111/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="" group-title="Sports HD server 1",BEIN SPORTS 6 HD
-http://maxq.live:800/live/555/111/481.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="" group-title="Sports HD server 1",BEIN SPORTS 7 HD
-http://maxq.live:800/live/555/111/482.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SSC HD" tvg-logo="" group-title="All_Live",SSC HD
-http://maxq.live:800/live/555/111/897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sports Extra HD" tvg-logo="" group-title="Sports HD server 1",AD Sports Extra HD
-http://maxq.live:800/live/555/111/906.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sports Extra Local" tvg-logo="" group-title="Sports HD server 1",AD Sports Extra Local
-http://maxq.live:800/live/555/111/908.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El fagr tv" tvg-logo="" group-title="Sports HD server 1",El fagr tv
-http://maxq.live:800/live/555/111/909.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdExtraTest" tvg-logo="" group-title="Sports HD server 1",AdExtraTest
-http://maxq.live:800/live/555/111/910.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="-------------## Server 2 SD##-------------" tvg-logo="" group-title=" Sports SD server 2",-------------## Server 2 SD##-------------
-http://maxq.live:800/live/555/111/894.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 1 SD" tvg-logo="" group-title=" Sports SD server 2",BeIN PREMIUM 1 SD
-http://maxq.live:800/live/555/111/890.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 2 SD" tvg-logo="" group-title=" Sports SD server 2",BeIN PREMIUM 2 SD
-http://maxq.live:800/live/555/111/891.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORT Max 1 SD" tvg-logo="" group-title=" Sports SD server 2",BeIN SPORT Max 1 SD
-http://maxq.live:800/live/555/111/892.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORT Max 2 SD" tvg-logo="" group-title=" Sports SD server 2",BeIN SPORT Max 2 SD
-http://maxq.live:800/live/555/111/893.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="-------------## Server 2 LOW##-------------" tvg-logo="" group-title=" Sports SD server 2",-------------## Server 2 LOW##-------------
-http://maxq.live:800/live/555/111/900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 1 low" tvg-logo="" group-title=" Sports SD server 2",BeIN PREMIUM 1 low
-http://maxq.live:800/live/555/111/902.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 2 low" tvg-logo="" group-title=" Sports SD server 2",BeIN PREMIUM 2 low
-http://maxq.live:800/live/555/111/903.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORT Max 1 Low" tvg-logo="" group-title=" Sports SD server 2",BeIN SPORT Max 1 Low
-http://maxq.live:800/live/555/111/904.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORT Max 2 Low" tvg-logo="" group-title=" Sports SD server 2",BeIN SPORT Max 2 Low
-http://maxq.live:800/live/555/111/905.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="-------------## Server 1 SD##-------------" tvg-logo="" group-title="Sports SD server 1",-------------## Server 1 SD##-------------
-http://maxq.live:800/live/555/111/472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 PREMIUM SD" tvg-logo="" group-title="Sports SD server 1",BEIN 1 PREMIUM SD
-http://maxq.live:800/live/555/111/493.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 2 PREMIUM SD" tvg-logo="" group-title="Sports SD server 1",BEIN 2 PREMIUM SD
-http://maxq.live:800/live/555/111/483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 PREMIUM SD" tvg-logo="" group-title="Sports SD server 1",BEIN 3 PREMIUM SD
-http://maxq.live:800/live/555/111/484.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 SD" tvg-logo="" group-title="Sports SD server 1",BEIN SPORTS 1 SD
-http://maxq.live:800/live/555/111/485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 SD" tvg-logo="" group-title="Sports SD server 1",BEIN SPORTS 2 SD
-http://maxq.live:800/live/555/111/486.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 SD" tvg-logo="" group-title="Sports SD server 1",BEIN SPORTS 3 SD
-http://maxq.live:800/live/555/111/487.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 SD" tvg-logo="" group-title="Sports SD server 1",BEIN SPORTS 4 SD
-http://maxq.live:800/live/555/111/488.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 SD" tvg-logo="" group-title="Sports SD server 1",BEIN SPORTS 5 SD
-http://maxq.live:800/live/555/111/489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 SD" tvg-logo="" group-title="Sports SD server 1",BEIN SPORTS 6 SD
-http://maxq.live:800/live/555/111/490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 SD" tvg-logo="" group-title="Sports SD server 1",BEIN SPORTS 7 SD
-http://maxq.live:800/live/555/111/491.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sports Extra LOW" tvg-logo="" group-title="Sports SD server 1",AD Sports Extra LOW
-http://maxq.live:800/live/555/111/907.m3u8
+#EXTINF:-1,Bein sports Premium 1 SD
+http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7873
+#EXTINF:-1,Bein Sports Premium 2 SD
+http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7874
+#EXTINF:-1,Bein Sports 3
+http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7875
+
+#EXTINF:-1,Bein Sports News HD
+https://list.iptvcat.com/my_list/s/0d77fa7602f3478659f5ac87cc76286d.m3u8
+#EXTINF:-1,DUHOK HD	
+http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
+#EXTINF:-1,ASO SPORT HD	
+http://190.2.148.141:8080/bar7671/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NRT SPORT HD	
+http://190.2.148.141:8080/bar7638/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1,Bein Sports 1 HD
+http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7876
+#EXTINF:-1,Bein Sports 2
+http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7877
+#EXTINF:-1,Bein Sports 3
+http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7878
+#EXTINF:-1,Bein Sports 4
+http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7879
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 1 HD
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/4
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 2 HD
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/5
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BeIN Sports 1 HD
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/6
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BeIN Sports 2 HD
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/7
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BeIN Sports 3 HD
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BeIN Sports 4 HD
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/9
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BeIN Sports 5 HD
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/10
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BeIN Sports 6 HD
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/11
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BeIN Sports 7 HD
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/12
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Fr HD 1
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/13
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Fr HD 2
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/14
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="Channels",BeIN Sports NBA HD
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/15
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 1 HD
+
+#EXTINF:0 tvg-id="BeinMax1.es" group-title="Channels",Bein Sport Max 1 SD
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/24
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 2 SD
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/25
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 1 HD
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/37
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 2 HD
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/38
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 3 HD
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/39
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports Extra HD1
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/40
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports Extra HD2
+http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/41
+
+
+
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BeIN Sports 1 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/6
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BeIN Sports 2 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/7
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BeIN Sports 3 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BeIN Sports 4 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/9
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BeIN Sports 5 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/10
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BeIN Sports 6 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/11
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BeIN Sports 7 HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/12
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Fr HD 1
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/13
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Fr HD 2
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/14
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="Channels",BeIN Sports NBA HD
+http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/15
+
+
+***************** Bein Sports SD/LOW ********************
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_1_SD
+http://smartestv.vip:2095/ABHVYOP/2387998104/2207
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_2_SD
+http://smartestv.vip:2095/ABHVYOP/2387998104/2208
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_1_low
+http://smartestv.vip:2095/ABHVYOP/2387998104/2211
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_2_low
+http://smartestv.vip:2095/ABHVYOP/2387998104/2212
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD1
+http://smartestv.vip:2095/ABHVYOP/2387998104/1006
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD2
+http://smartestv.vip:2095/ABHVYOP/2387998104/1007
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD3
+http://smartestv.vip:2095/ABHVYOP/2387998104/1008
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD4
+http://smartestv.vip:2095/ABHVYOP/2387998104/1009
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD5
+http://smartestv.vip:2095/ABHVYOP/2387998104/1010
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD6
+http://smartestv.vip:2095/ABHVYOP/2387998104/1011
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD7
+http://smartestv.vip:2095/ABHVYOP/2387998104/1012
+#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_English_SD1
+http://smartestv.vip:2095/ABHVYOP/2387998104/3029
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_Premium_HD1_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/16
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_Premium_HD2_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/17
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_Premium_HD3_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/18
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD1_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/19
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD2_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/20
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD3_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/21
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD4_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/22
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD5_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/23
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD6_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/24
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD7_Low
+http://smartestv.vip:2095/ABHVYOP/2387998104/25
+
+******************** OnlySports ********************
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 PREMIUM SD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2541?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 PREMIUM HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",beIN Sports 4 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/7?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports News HD
+http://red.ipfox.org:8080/1234/12345678/35068?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Sport",beIN Sport HD
+http://red.ipfox.org:8080/1234/12345678/35067?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 PREMIUM 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114051?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Sport",beIN Sports 7 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108170?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Sport",beIN Sports 5 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108168?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Sport",beIN Sports 6 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108169?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports Global HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28938?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="Sport",beIN Sports Nba HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3845?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports XTRA 1 HEVC
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117123?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_1
+http://smartestv.vip:2095/ABHVYOP/2387998104/980?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_2
+http://smartestv.vip:2095/ABHVYOP/2387998104/981?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_3
+http://smartestv.vip:2095/ABHVYOP/2387998104/982?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 4 Champions League HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195431?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 5 Champions League HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195430?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 6 Champions League HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195429?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 7 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/232?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 8 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/233?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 9 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/6582?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Sport",BeIN Sport Max 10 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/6583?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 1 Full HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32835?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 2 Full HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32836?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 3 Full HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32837?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 4 Full HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32838?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD2
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151082?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD3
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151083?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD4
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151084?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",CANAl+ HD Champions
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/184828?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL_SPORT_HD
+http://smartestv.vip:2095/ABHVYOP/2387998104/853?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Canal+ Sport 1
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90096?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="Sport",Canal+ Sport 2
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90102?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CanalPlusSport3.pl" group-title="Sport",Canal+ Sport 3
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90101?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CanalPlusSport4.pl" group-title="Sport",Canal+ Sport 4
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90100?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sport",SKY SPORTS ARENA
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/138137?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Sport",SKY SPORTS ACTION FHD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50277?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS FHD PREMIER LEAGUE
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10517?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sport",SKY SPORTS MAIN EVENT
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/138134?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE
+http://vmp343.ddnsking.com:80/pari/pari/549002?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportSerieA.it" group-title="Sport",SKY SPORT SERIE A SD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/41044?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 1
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150633?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 6
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150638?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 4
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150636?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 01 HD++
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167203?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 02 HD++
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167202?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 03 HD++
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167201?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD1+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151563?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD2+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151564?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD3+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151565?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 3
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150635?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="BeinLaLiga.es" group-title="SPAIN",beIN LA LIGA
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/21011?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",BEIN LALIGA1 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117059?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",beIN LA LIGA 2  HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/61586?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",beIN LA LIGA 3 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/61589?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",beIN LA LIGA 4 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/118929?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DAZN209.it" group-title="SPAIN",DAZN 1 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117071?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",DAZN 2 HD VIP ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683545?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",La Liga TV BAR HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/669971?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD1
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10069?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD2
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10070?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD3
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10127?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD5
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10129?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD6
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10130?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD7
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10131?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga de Campeones 11
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149975?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga de Campeones 10
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149974?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga de Campeones 16
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/157086?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",Movistar Liga De Campeones FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/620686?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",Movistar Liga De Campeones HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/620685?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",Canal+ Premier League HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114146?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-id="Barca.pt" group-title="SPAIN",BARCA TV
+https://iptvcat.com/my_list/s/64b81b1ffbe143000fdaa07692e80173.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="SPAIN",REAL MADRID  TV
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/673?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="SkySport251.it" group-title="ITALY",SKY CALCIO 1 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68603?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySport252.it" group-title="ITALY",SKY CALCIO 2 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68606?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySport253.it" group-title="ITALY",SKY CALCIO 3 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68609?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySport254.it" group-title="ITALY",SKY CALCIO 4 SD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68613?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySport255.it" group-title="ITALY",SKY CALCIO 5 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68615?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="ITALY",SKY DAZN BAR HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/51836?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC2 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156500?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC3 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156501?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC7 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156505?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",AD ASIA LIVE event 1
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156103?checkedby:iptvcat.com
+
+
+*******************************************
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Al-Fajer1
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/153539?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Al-Fajer2
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/153540?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Al-Fajer4
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/153542?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Al-Fajer5
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/153543?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Ajyal TVAJYAL TV (1920×1080)
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
