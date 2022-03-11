@@ -1,362 +1,242 @@
 #EXTM3U
 #EXTINF:-1,Rejoignez le groupe officiel👉: NEON IPTV ..[by neon]
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7873
-#EXTINF:-1,Bein Sports Premium 1SD 
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7873
-#EXTINF:-1,Bein Sports 2
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7874
-#EXTINF:-1,Bein Sports 4
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7875
-#EXTINF:-1,Bein Sports 4
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7876
-#EXTINF:-1,Bein Sports 5
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7877
-#EXTINF:-1,Bein Sports 6
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7878
-#EXTINF:-1,Bein Sports 7
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7879
-#EXTINF:-1,Bein Sports 8
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7880
-#EXTINF:-1,Bein Sports 9
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7881
-#EXTINF:-1,Bein Sports 10
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7882
-#EXTINF:-1,Bein Sports 11
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7883
-#EXTINF:-1,Bein Sports 12
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7884
-#EXTINF:-1 group-title="🏷️ | Kênh SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",beIN SPORTS 1 PREMIUM
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1 group-title="🏷️ | Kênh SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",beIN SPORTS 2 PREMIUM
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1 group-title="🏷️ | Kênh SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",beIN SPORTS 3 PREMIUM
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1,Bein sports Premium 1 SD
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7873
-#EXTINF:-1,Bein Sports Premium 2 SD
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7874
-#EXTINF:-1,Bein Sports 3
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7875
-
-#EXTINF:-1,Bein Sports News HD
-https://list.iptvcat.com/my_list/s/0d77fa7602f3478659f5ac87cc76286d.m3u8
-#EXTINF:-1,DUHOK HD	
-http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
-#EXTINF:-1,ASO SPORT HD	
-http://190.2.148.141:8080/bar7671/tracks-v1a1/mono.m3u8
-#EXTINF:-1,NRT SPORT HD	
-http://190.2.148.141:8080/bar7638/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,Bein Sports 1 HD
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7876
-#EXTINF:-1,Bein Sports 2
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7877
-#EXTINF:-1,Bein Sports 3
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7878
-#EXTINF:-1,Bein Sports 4
-http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7879
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 1 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/4
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 2 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/5
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BeIN Sports 1 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/6
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BeIN Sports 2 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/7
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BeIN Sports 3 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BeIN Sports 4 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/9
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BeIN Sports 5 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/10
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BeIN Sports 6 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/11
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BeIN Sports 7 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/12
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Fr HD 1
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/13
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Fr HD 2
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/14
-#EXTINF:0 tvg-id="NBAtv.sport" group-title="Channels",BeIN Sports NBA HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/15
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 1 HD
-
-#EXTINF:0 tvg-id="BeinMax1.es" group-title="Channels",Bein Sport Max 1 SD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/24
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 2 SD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/25
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 1 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/37
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 2 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/38
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Premium 3 HD
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/39
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports Extra HD1
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/40
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports Extra HD2
-http://mobitv.xyz:80/OLlDv0y4j3/bq9YjCfr64/41
-
-
-
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BeIN Sports 1 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/6
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BeIN Sports 2 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/7
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BeIN Sports 3 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BeIN Sports 4 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/9
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BeIN Sports 5 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/10
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BeIN Sports 6 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/11
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BeIN Sports 7 HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/12
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Fr HD 1
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/13
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports Fr HD 2
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/14
-#EXTINF:0 tvg-id="NBAtv.sport" group-title="Channels",BeIN Sports NBA HD
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/15
-
-
-***************** Bein Sports SD/LOW ********************
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_1_SD
-http://smartestv.vip:2095/ABHVYOP/2387998104/2207
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_2_SD
-http://smartestv.vip:2095/ABHVYOP/2387998104/2208
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_1_low
-http://smartestv.vip:2095/ABHVYOP/2387998104/2211
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_2_low
-http://smartestv.vip:2095/ABHVYOP/2387998104/2212
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD1
-http://smartestv.vip:2095/ABHVYOP/2387998104/1006
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD2
-http://smartestv.vip:2095/ABHVYOP/2387998104/1007
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD3
-http://smartestv.vip:2095/ABHVYOP/2387998104/1008
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD4
-http://smartestv.vip:2095/ABHVYOP/2387998104/1009
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD5
-http://smartestv.vip:2095/ABHVYOP/2387998104/1010
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD6
-http://smartestv.vip:2095/ABHVYOP/2387998104/1011
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD7
-http://smartestv.vip:2095/ABHVYOP/2387998104/1012
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_English_SD1
-http://smartestv.vip:2095/ABHVYOP/2387998104/3029
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_Premium_HD1_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/16
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_Premium_HD2_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/17
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_Premium_HD3_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/18
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD1_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/19
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD2_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/20
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD3_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/21
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD4_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/22
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD5_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/23
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD6_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/24
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeINsport_HD7_Low
-http://smartestv.vip:2095/ABHVYOP/2387998104/25
-
-******************** OnlySports ********************
-
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 PREMIUM SD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2541?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 PREMIUM HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",beIN Sports 4 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/7?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports News HD
-http://red.ipfox.org:8080/1234/12345678/35068?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Sport",beIN Sport HD
-http://red.ipfox.org:8080/1234/12345678/35067?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 PREMIUM 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114051?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Sport",beIN Sports 7 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108170?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Sport",beIN Sports 5 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108168?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Sport",beIN Sports 6 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108169?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports Global HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28938?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="NBAtv.sport" group-title="Sport",beIN Sports Nba HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3845?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports XTRA 1 HEVC
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117123?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_1
-http://smartestv.vip:2095/ABHVYOP/2387998104/980?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_2
-http://smartestv.vip:2095/ABHVYOP/2387998104/981?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_3
-http://smartestv.vip:2095/ABHVYOP/2387998104/982?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 4 Champions League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195431?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 5 Champions League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195430?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 6 Champions League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195429?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 7 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/232?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 8 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/233?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 9 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/6582?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Sport",BeIN Sport Max 10 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/6583?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 1 Full HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32835?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 2 Full HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32836?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 3 Full HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32837?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 4 Full HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32838?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151082?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD3
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151083?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD4
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151084?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANAl+ HD Champions
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/184828?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL_SPORT_HD
-http://smartestv.vip:2095/ABHVYOP/2387998104/853?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Canal+ Sport 1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90096?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="Sport",Canal+ Sport 2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90102?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CanalPlusSport3.pl" group-title="Sport",Canal+ Sport 3
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90101?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CanalPlusSport4.pl" group-title="Sport",Canal+ Sport 4
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90100?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sport",SKY SPORTS ARENA
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/138137?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Sport",SKY SPORTS ACTION FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50277?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS FHD PREMIER LEAGUE
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10517?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sport",SKY SPORTS MAIN EVENT
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/138134?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE
-http://vmp343.ddnsking.com:80/pari/pari/549002?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySportSerieA.it" group-title="Sport",SKY SPORT SERIE A SD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/41044?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150633?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150638?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 4
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150636?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 01 HD++
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167203?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 02 HD++
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167202?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 03 HD++
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167201?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD1+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151563?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD2+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151564?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD3+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151565?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 3
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150635?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="BeinLaLiga.es" group-title="SPAIN",beIN LA LIGA
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/21011?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",BEIN LALIGA1 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117059?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",beIN LA LIGA 2  HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/61586?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",beIN LA LIGA 3 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/61589?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",beIN LA LIGA 4 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/118929?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DAZN209.it" group-title="SPAIN",DAZN 1 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117071?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",DAZN 2 HD VIP ES
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683545?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",La Liga TV BAR HD ES
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/669971?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10069?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10070?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD3
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10127?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD5
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10129?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10130?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD7
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10131?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga de Campeones 11
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149975?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga de Campeones 10
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149974?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga de Campeones 16
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/157086?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Movistar Liga De Campeones FHD ES
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/620686?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Movistar Liga De Campeones HD ES
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/620685?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Canal+ Premier League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114146?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-id="Barca.pt" group-title="SPAIN",BARCA TV
-https://iptvcat.com/my_list/s/64b81b1ffbe143000fdaa07692e80173.m3u8
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="SPAIN",REAL MADRID  TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/673?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="SkySport251.it" group-title="ITALY",SKY CALCIO 1 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68603?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySport252.it" group-title="ITALY",SKY CALCIO 2 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68606?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySport253.it" group-title="ITALY",SKY CALCIO 3 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68609?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySport254.it" group-title="ITALY",SKY CALCIO 4 SD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68613?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySport255.it" group-title="ITALY",SKY CALCIO 5 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68615?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="ITALY",SKY DAZN BAR HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/51836?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC2 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156500?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC3 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156501?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC7 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156505?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",AD ASIA LIVE event 1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156103?checkedby:iptvcat.com
-
-
-*******************************************
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Al-Fajer1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/153539?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Al-Fajer2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/153540?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Al-Fajer4
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/153542?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Al-Fajer5
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/153543?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Ajyal TVAJYAL TV (1920×1080)
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORT" tvg-logo="/noicon.png",█▀▄▀▄▀SPORT▀▄▀▄▀█
+http://geniuses-line.com:22455/live.ts?channelId=9650&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_1_RS_logo.png",ARENA SPORT PREMIUM 1
+http://geniuses-line.com:22455/live.ts?channelId=11817&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_2_RS_logo.png",ARENA SPORT PREMIUM 2
+http://geniuses-line.com:22455/live.ts?channelId=11818&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_3_RS_logo.png",ARENA SPORT PREMIUM 3
+http://geniuses-line.com:22455/live.ts?channelId=11819&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/bs/8/8a/Arena_sport_logo.png",ARENA SPORT FIGHT
+http://geniuses-line.com:22455/live.ts?channelId=11820&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_1x2_RS_logo.png",ARENA SPORT 1x2
+http://geniuses-line.com:22455/live.ts?channelId=11821&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png",ARENA SPORT 1
+http://geniuses-line.com:22455/live.ts?channelId=9660&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena1.png",ARENA SPORT 1 (L2)
+http://geniuses-line.com:22455/live.ts?channelId=11479&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png",ARENA SPORT 2
+http://geniuses-line.com:22455/live.ts?channelId=9661&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena2.png",ARENA SPORT 2 (L2)
+http://geniuses-line.com:22455/live.ts?channelId=11480&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png",ARENA SPORT 3
+http://geniuses-line.com:22455/live.ts?channelId=9662&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena3.png",ARENA SPORT 3 (L2)
+http://geniuses-line.com:22455/live.ts?channelId=11481&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena4.png",ARENA SPORT 4
+http://geniuses-line.com:22455/live.ts?channelId=9879&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena4.png",ARENA SPORT 4 (L2)
+http://geniuses-line.com:22455/live.ts?channelId=11482&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena5.png",ARENA SPORT 5
+http://geniuses-line.com:22455/live.ts?channelId=9880&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena5.png",ARENA SPORT 5 (L2)
+http://geniuses-line.com:22455/live.ts?channelId=11483&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/arena1_logo.png",ARENA SPORT 1 HR
+http://geniuses-line.com:22455/live.ts?channelId=9654&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/arena1_logo.png",ARENA SPORT 1 HR (L2)
+http://geniuses-line.com:22455/live.ts?channelId=11484&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/arena2_logo.png",ARENA SPORT 2 HR
+http://geniuses-line.com:22455/live.ts?channelId=9655&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/arena2_logo.png",ARENA SPORT 2 HR (L2)
+http://geniuses-line.com:22455/live.ts?channelId=11485&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/arena3_logo.png",ARENA SPORT 3 HR
+http://geniuses-line.com:22455/live.ts?channelId=9656&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/arena3_logo.png",ARENA SPORT 3 HR (L2)
+http://geniuses-line.com:22455/live.ts?channelId=11486&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/arena4_logo.png",ARENA SPORT 4 HR
+http://geniuses-line.com:22455/live.ts?channelId=9657&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/arena4_logo.png",ARENA SPORT 4 HR (L2)
+http://geniuses-line.com:22455/live.ts?channelId=11487&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/arena5_logo.png",ARENA SPORT 5 HR
+http://geniuses-line.com:22455/live.ts?channelId=9658&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/arena5_logo.png",ARENA SPORT 5 HR (L2)
+http://geniuses-line.com:22455/live.ts?channelId=11488&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/arena6_logo.png",ARENA SPORT 6 HR
+http://geniuses-line.com:22455/live.ts?channelId=11740&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_7_HR_logo.png",ARENA SPORT 7 HR
+http://geniuses-line.com:22455/live.ts?channelId=11741&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_8_HR_logo.png",ARENA SPORT 8 HR
+http://geniuses-line.com:22455/live.ts?channelId=11742&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_9_HR_logo.png",ARENA SPORT 9 HR
+http://geniuses-line.com:22455/live.ts?channelId=11743&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_10_HR_logo.png",ARENA SPORT 10 HR
+http://geniuses-line.com:22455/live.ts?channelId=11744&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena1.png",ARENA SPORT 1 BIH
+http://geniuses-line.com:22455/live.ts?channelId=11150&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_hd.png",SPORT KLUB HD
+http://geniuses-line.com:22455/live.ts?channelId=11151&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_hd.png",SPORT KLUB HD L2
+http://geniuses-line.com:22455/live.ts?channelId=11715&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_1.png",SPORT KLUB 1
+http://geniuses-line.com:22455/live.ts?channelId=9666&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_1.png",SPORT KLUB 1 L2
+http://geniuses-line.com:22455/live.ts?channelId=11716&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_2.png",SPORT KLUB 2
+http://geniuses-line.com:22455/live.ts?channelId=9667&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_2.png",SPORT KLUB 2 L2
+http://geniuses-line.com:22455/live.ts?channelId=11717&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_3.png",SPORT KLUB 3
+http://geniuses-line.com:22455/live.ts?channelId=9668&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_3.png",SPORT KLUB 3 L2
+http://geniuses-line.com:22455/live.ts?channelId=11718&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_4.png",SPORT KLUB 4
+http://geniuses-line.com:22455/live.ts?channelId=9881&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_4.png",SPORT KLUB 4 L2
+http://geniuses-line.com:22455/live.ts?channelId=11719&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_5.png",SPORT KLUB 5
+http://geniuses-line.com:22455/live.ts?channelId=9882&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_5.png",SPORT KLUB 5 L2
+http://geniuses-line.com:22455/live.ts?channelId=11720&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_1.png",SPORT KLUB 1 HR
+http://geniuses-line.com:22455/live.ts?channelId=9663&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_1.png",SPORT KLUB 1 HR L2
+http://geniuses-line.com:22455/live.ts?channelId=11721&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_2.png",SPORT KLUB 2 HR
+http://geniuses-line.com:22455/live.ts?channelId=9664&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_2.png",SPORT KLUB 2 HR L2
+http://geniuses-line.com:22455/live.ts?channelId=11722&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_3.png",SPORT KLUB 3 HR
+http://geniuses-line.com:22455/live.ts?channelId=9665&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_3.png",SPORT KLUB 3 HR L2
+http://geniuses-line.com:22455/live.ts?channelId=11723&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_4.png",SPORT KLUB 4 HR
+http://geniuses-line.com:22455/live.ts?channelId=10966&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_4.png",SPORT KLUB 4 HR L2
+http://geniuses-line.com:22455/live.ts?channelId=11724&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_5.png",SPORT KLUB 5 HR
+http://geniuses-line.com:22455/live.ts?channelId=10967&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_5.png",SPORT KLUB 5 HR L2
+http://geniuses-line.com:22455/live.ts?channelId=11725&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_6.png",SPORT KLUB 6 HR
+http://geniuses-line.com:22455/live.ts?channelId=10968&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Moja_TV_logo.png",MOJA TV SPORT
+http://geniuses-line.com:22455/live.ts?channelId=10275&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://sptv.hr/app/images/logo_dark.png",HR: SPORTSKA TV
+http://geniuses-line.com:22455/live.ts?channelId=10383&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/FightBoxHD_logo.png",FIGHT BOX
+http://geniuses-line.com:22455/live.ts?channelId=10287&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fight-channel-logo.png",FIGHT CHANNEL
+http://geniuses-line.com:22455/live.ts?channelId=10288&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://xt.bossna-caffe.com:25461/images/d2975d4a3217d3744e37686a5be67ae7.jpg",ZVEZDA TV
+http://geniuses-line.com:22455/live.ts?channelId=11396&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/Eurosport_2015_logo.png",EUROSPORT 1
+http://geniuses-line.com:22455/live.ts?channelId=10031&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/Eurosport_2_2015_logo.png",EUROSPORT 2
+http://geniuses-line.com:22455/live.ts?channelId=10032&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_1.png",SPORTKLUB 1 SLO
+http://geniuses-line.com:22455/live.ts?channelId=11384&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_2.png",SPORTKLUB 2 SLO
+http://geniuses-line.com:22455/live.ts?channelId=11385&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sk_3.png",SPORTKLUB 3 SLO
+http://geniuses-line.com:22455/live.ts?channelId=11386&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/nova_sport.png",SR: NOVA SPORT
+http://geniuses-line.com:22455/live.ts?channelId=9659&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk.jpg",ELEVEN SPORTS 1
+http://geniuses-line.com:22455/live.ts?channelId=11144&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk.jpg",ELEVEN SPORTS 2
+http://geniuses-line.com:22455/live.ts?channelId=11145&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk.jpg",ELEVEN SPORTS 3
+http://geniuses-line.com:22455/live.ts?channelId=11146&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk.jpg",ELEVEN SPORTS 4
+http://geniuses-line.com:22455/live.ts?channelId=11147&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Eurosport_2015_logo.png",DE: EUROSPORT 1
+http://geniuses-line.com:22455/live.ts?channelId=10391&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Eurosport_2_2015_logo.png",DE: EUROSPORT 2
+http://geniuses-line.com:22455/live.ts?channelId=10392&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",DE: DAZN SPORT 1
+http://geniuses-line.com:22455/live.ts?channelId=10243&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",DE: DAZN SPORT 2
+http://geniuses-line.com:22455/live.ts?channelId=10244&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_1_logo.png",UK: BT SPORT 1
+http://geniuses-line.com:22455/live.ts?channelId=10414&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_2_logo.png",UK: BT SPORT 2
+http://geniuses-line.com:22455/live.ts?channelId=10415&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sport1-logo.png",FR: BEIN SPORTS 1
+http://geniuses-line.com:22455/live.ts?channelId=9675&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sport1-logo.png",FR: BEIN SPORTS 2
+http://geniuses-line.com:22455/live.ts?channelId=9676&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Bein-sports-max-3_logo.png",FR: BEIN SPORTS 3
+http://geniuses-line.com:22455/live.ts?channelId=9677&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1200px-Logo_RMC_Sport_2018.svg.png",FR: RMC SPORT 1
+http://geniuses-line.com:22455/live.ts?channelId=10441&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fafa05a283910ac4b.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-2.png",FR: RMC SPORT 2
+http://geniuses-line.com:22455/live.ts?channelId=10442&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F05c77dc50ffcbd5e.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-3.png",FR: RMC SPORT 3
+http://geniuses-line.com:22455/live.ts?channelId=10443&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD1.png",BEIN SPORTS 1
+http://geniuses-line.com:22455/live.ts?channelId=9889&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein_sports_2.png",BEIN SPORTS 2
+http://geniuses-line.com:22455/live.ts?channelId=10401&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD3.png",BEIN SPORTS 3
+http://geniuses-line.com:22455/live.ts?channelId=10402&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD4.png",BEIN SPORTS 4
+http://geniuses-line.com:22455/live.ts?channelId=10403&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD5.png",BEIN SPORTS 5
+http://geniuses-line.com:22455/live.ts?channelId=10404&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD6.png",BEIN SPORTS 6
+http://geniuses-line.com:22455/live.ts?channelId=10405&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD7.png",BEIN SPORTS 7
+http://geniuses-line.com:22455/live.ts?channelId=10406&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD8.png",BEIN SPORTS 8
+http://geniuses-line.com:22455/live.ts?channelId=10407&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD9.png",BEIN SPORTS 9
+http://geniuses-line.com:22455/live.ts?channelId=10408&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD1.png",TR: BEIN SPORTS
+http://geniuses-line.com:22455/live.ts?channelId=11288&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein_sports_2.png",TR: BEIN SPORTS 2
+http://geniuses-line.com:22455/live.ts?channelId=11289&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD3.png",TR: BEIN SPORTS 3
+http://geniuses-line.com:22455/live.ts?channelId=11290&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD4.png",TR: BEIN SPORTS 4
+http://geniuses-line.com:22455/live.ts?channelId=11291&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/realmadrid-tv-logo.png",ES: REAL MADRID TV
+http://geniuses-line.com:22455/live.ts?channelId=11152&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://estaticos.sport.es/resources/jpg/7/2/mayor-difusion-asi-sera-renovada-barca-1563470725027.jpg",ES: BARCA TV
+http://geniuses-line.com:22455/live.ts?channelId=11153&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/orf-sport-plus-logo.jpg",ORF SPORT+
+http://geniuses-line.com:22455/live.ts?channelId=10397&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/NBA_TV.png",NBA TV
+http://geniuses-line.com:22455/live.ts?channelId=10427&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Digi_sport1.png",RO: DIGI SPORT 1
+http://geniuses-line.com:22455/live.ts?channelId=10436&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Digi_sport2.png",RO: DIGI SPORT 2
+http://geniuses-line.com:22455/live.ts?channelId=10437&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Digi_sport3a.png",RO: DIGI SPORT 3
+http://geniuses-line.com:22455/live.ts?channelId=10438&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f7/Digi_Sport_4_%282015-.n.v.%29.png/revision/latest?cb=20180919155639",RO: DIGI SPORT 4
+http://geniuses-line.com:22455/live.ts?channelId=10439&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sport-tv1-pt.png",SPORT TV 1
+http://geniuses-line.com:22455/live.ts?channelId=10447&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sport-tv2-pt.png",SPORT TV 2
+http://geniuses-line.com:22455/live.ts?channelId=10448&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sport-tv3-pt.png",SPORT TV 3
+http://geniuses-line.com:22455/live.ts?channelId=10449&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sport-tv4-pt.png",SPORT TV 4
+http://geniuses-line.com:22455/live.ts?channelId=10450&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/c-more-hockey_logo.png",C MORE HOCKEY
+http://geniuses-line.com:22455/live.ts?channelId=10466&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/motorvision_logo.png",MOTORVISION TV
+http://geniuses-line.com:22455/live.ts?channelId=10467&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SportTV3.png",TV 3 SPORT
+http://geniuses-line.com:22455/live.ts?channelId=10476&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png",NL: FOX SPORTS 1
+http://geniuses-line.com:22455/live.ts?channelId=10479&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png",NL: FOX SPORTS 2
+http://geniuses-line.com:22455/live.ts?channelId=10481&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png",NL: FOX SPORTS 3
+http://geniuses-line.com:22455/live.ts?channelId=10482&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png",NL: FOX SPORTS 4
+http://geniuses-line.com:22455/live.ts?channelId=10483&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/fox-sports-logo.png",NL: FOX SPORTS 5
+http://geniuses-line.com:22455/live.ts?channelId=10484&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg",NL: ZIGGO SPORT SELECT
+http://geniuses-line.com:22455/live.ts?channelId=10487&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg",NL: ZIGGO SPORT VOETBAL
+http://geniuses-line.com:22455/live.ts?channelId=10488&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SS1-Albania.png",SUPERSPORT 1
+http://geniuses-line.com:22455/live.ts?channelId=10512&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SS2-Albania.png",SUPERSPORT 2
+http://geniuses-line.com:22455/live.ts?channelId=10513&uid=31975&deviceMac=00:1A:79:E1:9C:71
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/145155.png",SLO: SPORT TV 1
+http://geniuses-line.com:22455/live.ts?channelId=9670&uid=31975&deviceMac=00:1A:79:E1:9C:71
