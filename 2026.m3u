@@ -11,6 +11,18 @@ https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein4-108
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-1080p.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein6-1080p
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-1080p.m3u8
+#EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein1-720p
+https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-720p.m3u8
+#EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein2-720p
+https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-720p.m3u8
+#EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein3-720p
+https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein3-720p.m3u8
+#EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein4-720p
+https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein4-720p.m3u8
+#EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein5-720p
+https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-720p.m3u8
+#EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein6-720p
+https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-720p.m3u8
 
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="https://img.otf-tv.com/img/balance_168857.jpg",group-title="ماجستيك",📡Majestic Action
 https://blc2cr.linkip.org/live/90120_.m3u8?play=
