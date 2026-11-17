@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein1-1080p
+https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-1080p.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="https://img.otf-tv.com/img/balance_168857.jpg",group-title="ماجستيك",📡Majestic Action
 https://blc2cr.linkip.org/live/90120_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Aflam 1",tvg-logo="https://img.otf-tv.com/img/balance_287083.jpg",group-title="ماجستيك",📡Majestic Aflam 1
