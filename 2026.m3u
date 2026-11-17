@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein1-4k
+https://cp11.adabmedia.com/hls2/bein1.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein1-1080p
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-1080p.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein2-1080p
