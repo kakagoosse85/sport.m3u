@@ -14,33 +14,19 @@ https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-108
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN SPORT ",|8K| | BEIN SPORT 5 
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-1080p.m3u8
 
-#EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein1-720p
+#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein1-720p
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-720p.m3u8
-#EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein2-720p
+#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein2-720p
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-720p.m3u8
-#EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein3-720p
+#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein3-720p
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein3-720p.m3u8
-#EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein4-720p
+#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein4-720p
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein4-720p.m3u8
-#EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein5-720p
+#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein5-720p
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-720p.m3u8
-#EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="",group-title="bein",📡bein6-720p
+#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein6-720p
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 1 
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://alok.mohamedabomalek632.workers.dev:443/22.ts
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 2 
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://alok.mohamedabomalek632.workers.dev:443/23.ts
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 3
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://alok.mohamedabomalek632.workers.dev:443/31.ts
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 4 
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://alok.mohamedabomalek632.workers.dev:443/25.ts
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ",TOD-TV 5 
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://alok.mohamedabomalek632.workers.dev:443/26.ts
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 6 
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://alok.mohamedabomalek632.workers.dev:443/27.ts
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 7 
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://alok.mohamedabomalek632.workers.dev:443/28.ts
 
 
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="https://img.otf-tv.com/img/balance_168857.jpg",group-title="ماجستيك",📡Majestic Action
