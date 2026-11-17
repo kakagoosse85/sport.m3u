@@ -28,7 +28,7 @@ https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-720
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-720p.m3u8
 
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="https://img.otf-tv.com/img/balance_168857.jpg",group-title="ماجستيك",📡Majestic Action
-https://blc2cr.linkip.org/live/90120_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90120_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Aflam 1",tvg-logo="https://img.otf-tv.com/img/balance_287083.jpg",group-title="ماجستيك",📡Majestic Aflam 1
 https://blc2cr.linkip.org/live/90109_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Aflam 2",tvg-logo="https://img.otf-tv.com/img/balance_115978.jpg",group-title="ماجستيك",📡Majestic Aflam 2
