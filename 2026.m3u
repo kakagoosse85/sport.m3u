@@ -28,73 +28,73 @@ https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-720
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-720p.m3u8
 
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Action",tvg-logo="https://img.otf-tv.com/img/balance_168857.jpg",group-title="ماجستيك",📡Majestic Action
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90120_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90120_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Aflam 1",tvg-logo="https://img.otf-tv.com/img/balance_287083.jpg",group-title="ماجستيك",📡Majestic Aflam 1
-https://blc2cr.linkip.org/live/90109_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90109_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Aflam 2",tvg-logo="https://img.otf-tv.com/img/balance_115978.jpg",group-title="ماجستيك",📡Majestic Aflam 2
-https://blc2cr.linkip.org/live/90110_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90110_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Cinema",tvg-logo="https://img.otf-tv.com/img/balance_51027.jpg",group-title="ماجستيك",📡Majestic Cinema
-https://blc2cr.linkip.org/live/90108_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90108_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Classic",tvg-logo="https://img.otf-tv.com/img/balance_45354.jpg",group-title="ماجستيك",📡Majestic Classic
-https://blc2cr.linkip.org/live/90111_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90111_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Crime",tvg-logo="https://img.otf-tv.com/img/balance_245712.jpg",group-title="ماجستيك",📡Majestic Crime
-https://blc2cr.linkip.org/live/90122_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90122_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Fantasy",group-title="ماجستيك",📡Majestic Fantasy
-https://blc2cr.linkip.org/live/90121_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90121_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Hindi",tvg-logo="https://img.otf-tv.com/img/balance_226303.jpg",group-title="ماجستيك",📡Majestic Hindi
-https://blc2cr.linkip.org/live/90114_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90114_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Masrah",tvg-logo="https://img.otf-tv.com/img/balance_201821.jpg",group-title="ماجستيك",📡Majestic Masrah
-https://blc2cr.linkip.org/live/90113_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90113_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Majestic Zaman",tvg-logo="https://img.otf-tv.com/img/balance_62195.jpg",group-title="ماجستيك",📡Majestic Zaman
-https://blc2cr.linkip.org/live/90112_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90112_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡شاهد أفلام",group-title="شاهد",📡شاهد أفلام
-https://blc2cr.linkip.org/live/90080_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90080_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡شاهد أفلام 2",group-title="شاهد",📡شاهد أفلام 2
-https://blc2cr.linkip.org/live/90081_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90081_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡شاهد اكشن",group-title="شاهد",📡شاهد اكشن
-https://blc2cr.linkip.org/live/90086_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90086_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡شاهد رعب",group-title="شاهد",📡شاهد رعب
-https://blc2cr.linkip.org/live/90087_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90087_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡شاهد زمان",group-title="شاهد",📡شاهد زمان
-https://blc2cr.linkip.org/live/90082_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90082_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡شاهد سينما",group-title="شاهد",📡شاهد سينما
-https://blc2cr.linkip.org/live/90083_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90083_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡شاهد عربي",group-title="شاهد",📡شاهد عربي
-https://blc2cr.linkip.org/live/90088_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90088_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡شاهد كرتون",group-title="شاهد",📡شاهد كرتون
-https://blc2cr.linkip.org/live/90084_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90084_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡شاهد كليب",group-title="شاهد",📡شاهد كليب
-https://blc2cr.linkip.org/live/90085_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90085_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡شاهد هندي",group-title="شاهد",📡شاهد هندي
-https://blc2cr.linkip.org/live/90089_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90089_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Aflam",tvg-logo="https://img.otf-tv.com/img/balance_291371.jpg",group-title="Ktv",📡Ktv Aflam
-https://blc2cr.linkip.org/live/90061_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90061_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Cinema",tvg-logo="https://img.otf-tv.com/img/balance_50088.jpg",group-title="Ktv",📡Ktv Cinema
-https://blc2cr.linkip.org/live/90063_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90063_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Classic",tvg-logo="https://img.otf-tv.com/img/balance_234914.jpg",group-title="Ktv",📡Ktv Classic
-https://blc2cr.linkip.org/live/90065_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90065_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Comedy",tvg-logo="https://img.otf-tv.com/img/balance_183637.jpg",group-title="Ktv",📡Ktv Comedy
-https://blc2cr.linkip.org/live/90062_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90062_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Documentary",tvg-logo="https://img.otf-tv.com/img/balance_27169.jpg",group-title="Ktv",📡Ktv Documentary
-https://blc2cr.linkip.org/live/90070_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90070_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Hindi",tvg-logo="https://img.otf-tv.com/img/balance_297212.jpg",group-title="Ktv",📡Ktv Hindi
-https://blc2cr.linkip.org/live/90071_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90071_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Hindi 2",tvg-logo="https://img.otf-tv.com/img/balance_219416.jpg",group-title="Ktv",📡Ktv Hindi 2
-https://blc2cr.linkip.org/live/90072_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90072_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Kids 1",tvg-logo="https://img.otf-tv.com/img/balance_294716.jpg",group-title="Ktv",📡Ktv Kids 1
-https://blc2cr.linkip.org/live/90068_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90068_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Kids 2",tvg-logo="https://img.otf-tv.com/img/balance_64426.jpg",group-title="Ktv",📡Ktv Kids 2
-https://blc2cr.linkip.org/live/90069_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90069_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Masr7 Masr",tvg-logo="https://img.otf-tv.com/img/balance_297210.jpg",group-title="Ktv",📡Ktv Masr7 Masr
-https://blc2cr.linkip.org/live/90067_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90067_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Masr7yat",tvg-logo="https://img.otf-tv.com/img/balance_200613.jpg",group-title="Ktv",📡Ktv Masr7yat
-https://blc2cr.linkip.org/live/90066_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90066_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Som3a",tvg-logo="https://img.otf-tv.com/img/balance_14906.jpg",group-title="Ktv",📡Ktv Som3a
-https://blc2cr.linkip.org/live/90064_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90064_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Super Hero",tvg-logo="https://img.otf-tv.com/img/balance_165556.jpg",group-title="Ktv",📡Ktv Super Hero
-https://blc2cr.linkip.org/live/90073_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90073_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Thriller",tvg-logo="https://img.otf-tv.com/img/balance_210040.jpg",group-title="Ktv",📡Ktv Thriller
-https://blc2cr.linkip.org/live/90074_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90074_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡AL ALAM 🇮🇷",tvg-logo="https://bit.ly/3Nv4rim",group-title="الاخبار",📡AL ALAM 🇮🇷
 https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡Al Arabiya Business HD 🇸🇦",tvg-logo="https://vid.alarabiya.net/images/2023/10/27/62f548e2-46ca-470b-93a9-c9f80deefef9/62f548e2-46ca-470b-93a9-c9f80deefef9.jpg",group-title="الاخبار",📡Al Arabiya Business HD 🇸🇦
@@ -324,85 +324,85 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2613
 #EXTINF:-1 tvg-id="",tvg-name="📡ZooMoo HD",tvg-logo="https://i.imgur.com/246vm7R.png",group-title="World",📡ZooMoo HD
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Office 01",tvg-logo="https://img.otf-tv.com/img/balance_34032.jpg",group-title="Home Premium",📡Box Office 01
-https://blc2cr.linkip.org/live/90013_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90013_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Office 02",tvg-logo="https://img.otf-tv.com/img/balance_139589.jpg",group-title="Home Premium",📡Box Office 02
-https://blc2cr.linkip.org/live/90014_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90014_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Office 03",tvg-logo="https://img.otf-tv.com/img/balance_246862.jpg",group-title="Home Premium",📡Box Office 03
-https://blc2cr.linkip.org/live/90015_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90015_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Office 04",tvg-logo="https://img.otf-tv.com/img/balance_159729.jpg",group-title="Home Premium",📡Box Office 04
-https://blc2cr.linkip.org/live/90016_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90016_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Office 05",tvg-logo="https://img.otf-tv.com/img/balance_144224.jpg",group-title="Home Premium",📡Box Office 05
-https://blc2cr.linkip.org/live/90017_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90017_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Office 06",tvg-logo="https://img.otf-tv.com/img/balance_39130.jpg",group-title="Home Premium",📡Box Office 06
-https://blc2cr.linkip.org/live/90018_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90018_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Office 07",tvg-logo="https://img.otf-tv.com/img/balance_137226.jpg",group-title="Home Premium",📡Box Office 07
-https://blc2cr.linkip.org/live/90019_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90019_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Office 08",tvg-logo="https://img.otf-tv.com/img/balance_16732.jpg",group-title="Home Premium",📡Box Office 08
-https://blc2cr.linkip.org/live/90020_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90020_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Office 09",tvg-logo="https://img.otf-tv.com/img/balance_104082.jpg",group-title="Home Premium",📡Box Office 09
-https://blc2cr.linkip.org/live/90021_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90021_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Office 10",tvg-logo="https://img.otf-tv.com/img/balance_128491.jpg",group-title="Home Premium",📡Box Office 10
-https://blc2cr.linkip.org/live/90022_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90022_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Premium 1",tvg-logo="https://img.otf-tv.com/img/balance_54782.jpg",group-title="Home Premium",📡Box Premium 1
-https://blc2cr.linkip.org/live/90036_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90036_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Premium 2",tvg-logo="https://img.otf-tv.com/img/balance_272224.jpg",group-title="Home Premium",📡Box Premium 2
-https://blc2cr.linkip.org/live/90037_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90037_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Premium 3",tvg-logo="https://img.otf-tv.com/img/balance_139997.jpg",group-title="Home Premium",📡Box Premium 3
-https://blc2cr.linkip.org/live/90038_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90038_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Premium 4",tvg-logo="https://img.otf-tv.com/img/balance_25702.jpg",group-title="Home Premium",📡Box Premium 4
-https://blc2cr.linkip.org/live/90039_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90039_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Premium 5",tvg-logo="https://img.otf-tv.com/img/balance_21212.jpg",group-title="Home Premium",📡Box Premium 5
-https://blc2cr.linkip.org/live/90116_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90116_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Premium 6",tvg-logo="https://img.otf-tv.com/img/balance_290237.jpg",group-title="Home Premium",📡Box Premium 6
-https://blc2cr.linkip.org/live/90117_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90117_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Box Premium 7",tvg-logo="https://img.otf-tv.com/img/balance_174668.jpg",group-title="Home Premium",📡Box Premium 7
-https://blc2cr.linkip.org/live/90118_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90118_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Home Cinema 01",tvg-logo="https://img.otf-tv.com/img/balance_154069.jpg",group-title="Home Premium",📡Home Cinema 01
-https://blc2cr.linkip.org/live/90003_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90003_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Home Cinema 02",tvg-logo="https://img.otf-tv.com/img/balance_156524.jpg",group-title="Home Premium",📡Home Cinema 02
-https://blc2cr.linkip.org/live/90004_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90004_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Home Cinema 03",tvg-logo="https://img.otf-tv.com/img/balance_29409.jpg",group-title="Home Premium",📡Home Cinema 03
-https://blc2cr.linkip.org/live/90005_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90005_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Home Cinema 04",tvg-logo="https://img.otf-tv.com/img/balance_257732.jpg",group-title="Home Premium",📡Home Cinema 04
-https://blc2cr.linkip.org/live/90006_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90006_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Home Cinema 05",tvg-logo="https://img.otf-tv.com/img/balance_151168.jpg",group-title="Home Premium",📡Home Cinema 05
-https://blc2cr.linkip.org/live/90007_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90007_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Home Cinema 06",tvg-logo="https://img.otf-tv.com/img/balance_163222.jpg",group-title="Home Premium",📡Home Cinema 06
-https://blc2cr.linkip.org/live/90008_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90008_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Home Cinema 07",tvg-logo="https://img.otf-tv.com/img/balance_5310.jpg",group-title="Home Premium",📡Home Cinema 07
-https://blc2cr.linkip.org/live/90009_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90009_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Home Cinema 08",tvg-logo="https://img.otf-tv.com/img/balance_292445.jpg",group-title="Home Premium",📡Home Cinema 08
-https://blc2cr.linkip.org/live/90010_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90010_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Home Cinema 09",tvg-logo="https://img.otf-tv.com/img/balance_111079.jpg",group-title="Home Premium",📡Home Cinema 09
-https://blc2cr.linkip.org/live/90011_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90011_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Home Cinema 10",tvg-logo="https://img.otf-tv.com/img/balance_53169.jpg",group-title="Home Premium",📡Home Cinema 10
-https://blc2cr.linkip.org/live/90012_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90012_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Home Premium 1",tvg-logo="https://img.otf-tv.com/img/balance_288691.jpg",group-title="Home Premium",📡Home Premium 1
-https://blc2cr.linkip.org/live/90034_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90034_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Home Premium 2",tvg-logo="https://img.otf-tv.com/img/balance_102688.jpg",group-title="Home Premium",📡Home Premium 2
-https://blc2cr.linkip.org/live/90035_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90035_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Home Premium 3",tvg-logo="https://img.otf-tv.com/img/balance_146122.jpg",group-title="Home Premium",📡Home Premium 3
-https://blc2cr.linkip.org/live/90115_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90115_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Starz Action",tvg-logo="https://img.otf-tv.com/img/balance_74565.jpg",group-title="Starz",📡Starz Action
-https://blc2cr.linkip.org/live/90158_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90158_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Starz Cinema",tvg-logo="https://img.otf-tv.com/img/balance_162900.jpg",group-title="Starz",📡Starz Cinema
-https://blc2cr.linkip.org/live/90155_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90155_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Starz Comedy",tvg-logo="https://img.otf-tv.com/img/balance_189308.jpg",group-title="Starz",📡Starz Comedy
-https://blc2cr.linkip.org/live/90154_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90154_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Starz Crime",tvg-logo="https://img.otf-tv.com/img/balance_105495.jpg",group-title="Starz",📡Starz Crime
-https://blc2cr.linkip.org/live/90159_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90159_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Starz Gulf",tvg-logo="https://img.otf-tv.com/img/balance_255217.jpg",group-title="Starz",📡Starz Gulf
-https://blc2cr.linkip.org/live/90153_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90153_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Starz Horror",tvg-logo="https://img.otf-tv.com/img/balance_255649.jpg",group-title="Starz",📡Starz Horror
-https://blc2cr.linkip.org/live/90160_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90160_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Starz Indin",tvg-logo="https://img.otf-tv.com/img/balance_36104.jpg",group-title="Starz",📡Starz Indin
-https://blc2cr.linkip.org/live/90156_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90156_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Starz Kids",tvg-logo="https://img.otf-tv.com/img/balance_35323.jpg",group-title="Starz",📡Starz Kids
-https://blc2cr.linkip.org/live/90151_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90151_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Starz Masrah",tvg-logo="https://img.otf-tv.com/img/balance_163574.jpg",group-title="Starz",📡Starz Masrah
-https://blc2cr.linkip.org/live/90152_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90152_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Starz Thriller",tvg-logo="https://img.otf-tv.com/img/balance_39838.jpg",group-title="Starz",📡Starz Thriller
-https://blc2cr.linkip.org/live/90157_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90157_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="NOW (backup)",group-title="تركيا",NOW (backup)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="NOW (backup)",group-title="تركيا",NOW (backup)
@@ -2020,37 +2020,37 @@ http://185.9.2.18/chid_423/index.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.fr",tvg-name="BEIN SPORTS FR 1 🇫🇷",tvg-logo="https://i.ibb.co.com/d75VShH/daznxbein1.png",group-title="BeinFR",BEIN SPORTS FR 1 🇫🇷
 https://instream.click/hlsspanich.php?stream=H1
 #EXTINF:-1 tvg-id="722",tvg-name="BOX OFFICE KIDS 1",tvg-logo="https://i.imgur.com/eayZORk.jpeg",group-title="اطفال",BOX OFFICE KIDS 1
-https://blc2cr.linkip.org/live/90024_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90024_.m3u8?play=
 #EXTINF:-1 tvg-id="730",tvg-name="BOX OFFICE KIDS 10",tvg-logo="https://i.imgur.com/eayZORk.jpeg",group-title="اطفال",BOX OFFICE KIDS 10
-https://blc2cr.linkip.org/live/90023_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90023_.m3u8?play=
 #EXTINF:-1 tvg-id="723",tvg-name="BOX OFFICE KIDS 2",tvg-logo="https://i.imgur.com/eayZORk.jpeg",group-title="اطفال",BOX OFFICE KIDS 2
-https://blc2cr.linkip.org/live/90025_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90025_.m3u8?play=
 #EXTINF:-1 tvg-id="724",tvg-name="BOX OFFICE KIDS 3",tvg-logo="https://i.imgur.com/eayZORk.jpeg",group-title="اطفال",BOX OFFICE KIDS 3
-https://blc2cr.linkip.org/live/90026_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90026_.m3u8?play=
 #EXTINF:-1 tvg-id="725",tvg-name="BOX OFFICE KIDS 4",tvg-logo="https://i.imgur.com/eayZORk.jpeg",group-title="اطفال",BOX OFFICE KIDS 4
-https://blc2cr.linkip.org/live/90027_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90027_.m3u8?play=
 #EXTINF:-1 tvg-id="726",tvg-name="BOX OFFICE KIDS 5",tvg-logo="https://i.imgur.com/eayZORk.jpeg",group-title="اطفال",BOX OFFICE KIDS 5
-https://blc2cr.linkip.org/live/90028_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90028_.m3u8?play=
 #EXTINF:-1 tvg-id="727",tvg-name="BOX OFFICE KIDS 6",tvg-logo="https://i.imgur.com/eayZORk.jpeg",group-title="اطفال",BOX OFFICE KIDS 6
-https://blc2cr.linkip.org/live/90029_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90029_.m3u8?play=
 #EXTINF:-1 tvg-id="728",tvg-name="BOX OFFICE KIDS 7",tvg-logo="https://i.imgur.com/eayZORk.jpeg",group-title="اطفال",BOX OFFICE KIDS 7
-https://blc2cr.linkip.org/live/90030_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90030_.m3u8?play=
 #EXTINF:-1 tvg-id="729",tvg-name="BOX OFFICE KIDS 8",tvg-logo="https://i.imgur.com/eayZORk.jpeg",group-title="اطفال",BOX OFFICE KIDS 8
-https://blc2cr.linkip.org/live/90031_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90031_.m3u8?play=
 #EXTINF:-1 tvg-id="730",tvg-name="BOX OFFICE KIDS 9",tvg-logo="https://i.imgur.com/eayZORk.jpeg",group-title="اطفال",BOX OFFICE KIDS 9
-https://blc2cr.linkip.org/live/90032_.m3u8?play=
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90032_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="kids 90030",group-title="اطفال",kids 90030
-https://blc2cr.linkip.org/live/90030_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90030_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="kids 90031",group-title="اطفال",kids 90031
-https://blc2cr.linkip.org/live/90031_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90031_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="kids 90032",group-title="اطفال",kids 90032
-https://blc2cr.linkip.org/live/90032_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90032_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="Ktv kids 90068",group-title="اطفال",Ktv kids 90068
-https://blc2cr.linkip.org/live/90068_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90068_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="Ktv kids 90069",group-title="اطفال",Ktv kids 90069
-https://blc2cr.linkip.org/live/90069_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90069_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="شاهد كرتون 90084",group-title="اطفال",شاهد كرتون 90084
-https://blc2cr.linkip.org/live/90084_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90084_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="ALRisala",tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaRisala.png",group-title="Rotana",ALRisala
 https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="CINEMA DRAMA Multi",tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTD_264_Color.png",group-title="Rotana",CINEMA DRAMA Multi
