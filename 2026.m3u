@@ -30,20 +30,7 @@ https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-720
 #EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein6-720p
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-720p.m3u8
 
-#EXTINF:-1 tvg-name="بين سبورت 1" group-title="بين سبورت السيرفر الأول",بين سبورت 1
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://uruk.optikl.ink/ostora/main.php?id=116900&cat=4524
-#EXTINF:-1 tvg-name="بين سبورت 2" group-title="بين سبورت السيرفر الأول",بين سبورت 2
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://uruk.optikl.ink/ostora/main.php?id=116901&cat=4524
-#EXTINF:-1 tvg-name="بين سبورت 3" group-title="بين سبورت السيرفر الأول",بين سبورت 3
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://uruk.optikl.ink/ostora/main.php?id=116902&cat=4524
-#EXTINF:-1 tvg-name="بين سبورت 4" group-title="بين سبورت السيرفر الأول",بين سبورت 4
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://uruk.optikl.ink/ostora/main.php?id=116903&cat=4524
-#EXTINF:-1 tvg-name="بين سبورت 5" group-title="بين سبورت السيرفر الأول",بين سبورت 5
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://uruk.optikl.ink/ostora/main.php?id=116904&cat=4524
-#EXTINF:-1 tvg-name="بين سبورت 6" group-title="بين سبورت السيرفر الأول",بين سبورت 6
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://uruk.optikl.ink/ostora/main.php?id=116905&cat=4524
-#EXTINF:-1 tvg-name="بين سبورت 7" group-title="بين سبورت السيرفر الأول",بين سبورت 7
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://uruk.optikl.ink/ostora/main.php?id=116906&cat=4524
+
 
 
 
